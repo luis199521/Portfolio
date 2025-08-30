@@ -4,7 +4,7 @@ const About = () => {
       <h2 className="text-4xl font-bold mb-10 text-center text-gray-900 dark:text-white">About Me</h2>
       <div className="max-w-3xl mx-auto space-y-6 text-lg leading-relaxed">
         <p>
-          I'm a Full-Stack Developer with a strong focus on backend development, trained in Australia through a Certificate IV and Diploma in Backend Development at TAFE Perth.
+          I'm a Full-Stack Developer with a strong focus on backend development,  Bachelor in Computer science in Colombia and Cert IV & Diploma in Backend Development at TAFE Perth.
         </p>
         <p>
           My expertise lies in building scalable web applications and RESTful APIs using Laravel, along with experience in WordPress plugin and theme development, React, MySQL, Tailwind CSS, and SEO-friendly web design.

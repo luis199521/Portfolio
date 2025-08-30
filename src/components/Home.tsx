@@ -14,7 +14,7 @@ const Home = () => {
       <h1 className="text-5xl font-bold text-gray-900 dark:text-white mb-2">Luis Alvarez</h1>
       <h2 className="text-2xl text-blue-600 dark:text-blue-400 font-medium mb-6">Full-Stack Developer</h2>
       <p className="max-w-2xl text-lg text-gray-700 dark:text-gray-300 leading-relaxed mb-8">
-        Experienced in building scalable web applications and RESTful APIs using Laravel. Trained in Australia (Cert IV & Diploma in Backend Development at TAFE Perth), with experience in WordPress plugin/theme development, React, MySQL, Tailwind CSS, and SEO-friendly web design.
+        Experienced in building scalable web applications and RESTful APIs using Laravel. Bachelor in Computer science in Colombia and Cert IV & Diploma in Backend Development at TAFE Perth, with experience in WordPress plugin/theme development, React, MySQL, Tailwind CSS, and SEO-friendly web design.
       </p>
       <div className="flex gap-4">
         <a
