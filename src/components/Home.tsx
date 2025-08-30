@@ -1,4 +1,4 @@
-//import profile from '../assets/profile.jpg';
+import profile from '../assets/image.jpg';
 
 const Home = () => {
   return (
@@ -7,7 +7,7 @@ const Home = () => {
       className="min-h-[90vh] flex flex-col items-center justify-center bg-white dark:bg-gray-900 text-center px-6 py-40"
     >
       <img
-        //src={profile}
+        src={profile}
         alt="Luis Alvarez"
         className="w-44 h-44 rounded-full object-cover mb-8 shadow-lg border-4 border-blue-500"
       />
