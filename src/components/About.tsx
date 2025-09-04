@@ -7,7 +7,7 @@ const About = () => {
           I'm a Full-Stack Developer (ANZSCO 261312 – Developer Programmer ACS Assessed) with 3 years of experience and a  strong focus on backend development,  Bachelor in Computer science in Colombia and Cert IV & Diploma in Backend Development at TAFE Perth.
         </p>
         <p>
-          My expertise lies in building scalable web applications and RESTful APIs using Laravel, along with experience in WordPress plugin and theme development, React, MySQL, Tailwind CSS, and SEO-friendly web design.
+          My expertise lies in building scalable web applications and RESTful APIs using Laravel, along with experience in WordPress plugin and theme development, Nodejs, React, Python, MySQL, Tailwind CSS, and SEO-friendly web design.
         </p>
         <p>
           I'm currently on a Temporary Graduate Visa (subclass 485), and actively seeking employer sponsorship (subclass 482) to continue contributing to Australia's tech sector.
